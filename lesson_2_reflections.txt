@@ -4,4 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates the .gif metadata to follow the commits, but it doesn't have any commits yet. It is needed to make the commits.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an intermediate place before getting any file to the final commit. It lets you include various files in the same commit at the same time.
+
 
