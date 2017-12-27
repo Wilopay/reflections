@@ -1,0 +1,7 @@
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the .gif metadata to follow the commits, but it doesn't have any commits yet. It is needed to make the commits.
+
+
