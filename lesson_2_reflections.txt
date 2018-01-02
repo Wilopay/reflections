@@ -8,4 +8,20 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is an intermediate place before getting any file to the final commit. It lets you include various files in the same commit at the same time.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+including all the files that are related to that logical change in the staging area and then do the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to experiment something in the code that you dont want to reflect  on the original program. You can probe it making other branches.
+
+How do the diagrams help you visualize the branch structure?
+
+they let you be aware of the parents of either branch and know what commits you can have acces in that branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+we end with only one branch including all the changes made on the two separate branches. we represented in the diagram because is the easiest way to visualize the order and the timing of each commit of both branches.
+
 
